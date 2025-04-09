@@ -1,0 +1,477 @@
+[
+  {
+    "id": 1,
+    "name": "Al Baik",
+    "cuisine": "Fast Food",
+    "price_range": "$",
+    "rating": 4.7,
+    "location": {
+      "latitude": 21.5433,
+      "longitude": 39.1728,
+      "address": "King Abdullah Rd, Jeddah, Saudi Arabia"
+    },
+    "description": "Iconic Saudi fast food chain famous for its crispy fried chicken and special garlic sauce, a must-try for visitors.",
+    "image_url": "/restaurants/albaik.jpg",
+    "hours": "10:00 AM - 1:00 AM",
+    "near_stadium": "King Abdullah Sports City",
+    "popular_dishes": ["Spicy Chicken", "Nuggets", "Garlic Sauce"],
+    "reservations_required": false,
+    "city": "Jeddah"
+  },
+  {
+    "id": 2,
+    "name": "Najd Village",
+    "cuisine": "Saudi Traditional",
+    "price_range": "$$",
+    "rating": 4.6,
+    "location": {
+      "latitude": 24.7136,
+      "longitude": 46.6753,
+      "address": "Takhassusi St, Al Olaya, Riyadh, Saudi Arabia"
+    },
+    "description": "Traditional Saudi dining experience in a heritage-inspired setting, offering authentic Najdi dishes in a warm, cultural atmosphere.",
+    "image_url": "/restaurants/najd_village.jpg",
+    "hours": "12:00 PM - 12:00 AM",
+    "near_stadium": "King Fahd International Stadium",
+    "popular_dishes": ["Kabsa", "Jareesh", "Matazeez"],
+    "reservations_required": false,
+    "city": "Riyadh"
+  },
+  {
+    "id": 3,
+    "name": "Mama Noura",
+    "cuisine": "Lebanese",
+    "price_range": "$",
+    "rating": 4.5,
+    "location": {
+      "latitude": 24.7219,
+      "longitude": 46.6267,
+      "address": "Olaya St, Riyadh, Saudi Arabia"
+    },
+    "description": "Popular shawarma and Lebanese fast food spot beloved by locals for its quick service and delicious wraps.",
+    "image_url": "/restaurants/mama_noura.jpg",
+    "hours": "11:00 AM - 2:00 AM",
+    "near_stadium": "King Saud University Stadium",
+    "popular_dishes": ["Shawarma", "Hummus", "Tabbouleh"],
+    "reservations_required": false,
+    "city": "Riyadh"
+  },
+  {
+    "id": 4,
+    "name": "Lusin",
+    "cuisine": "Armenian",
+    "price_range": "$$$",
+    "rating": 4.8,
+    "location": {
+      "latitude": 24.7700,
+      "longitude": 46.6432,
+      "address": "Centria Mall, Olaya St, Riyadh, Saudi Arabia"
+    },
+    "description": "Upscale Armenian restaurant with elegant decor serving refined dishes with a modern twist.",
+    "image_url": "/restaurants/lusin.jpg",
+    "hours": "1:00 PM - 11:30 PM",
+    "near_stadium": "Crowne Plaza Riyadh RDC Hotel & Convention",
+    "popular_dishes": ["Manti", "Kebabs", "Cherry Cake"],
+    "reservations_required": true,
+    "city": "Riyadh"
+  },
+  {
+    "id": 5,
+    "name": "Mirage Restaurant",
+    "cuisine": "Seafood",
+    "price_range": "$$$",
+    "rating": 4.6,
+    "location": {
+      "latitude": 26.2794,
+      "longitude": 50.2083,
+      "address": "Corniche Rd, Al Khobar, Saudi Arabia"
+    },
+    "description": "Waterfront seafood restaurant with panoramic views of the Arabian Gulf and fresh local catches.",
+    "image_url": "/restaurants/mirage.jpg",
+    "hours": "12:30 PM - 11:00 PM",
+    "near_stadium": "Prince Saud bin Jalawi Stadium",
+    "popular_dishes": ["Grilled Hammour", "Seafood Platter", "Shrimp Machboos"],
+    "reservations_required": true,
+    "city": "Khobar"
+  },
+  {
+    "id": 6,
+    "name": "Section-B",
+    "cuisine": "Burgers",
+    "price_range": "$$",
+    "rating": 4.7,
+    "location": {
+      "latitude": 21.5169,
+      "longitude": 39.1694,
+      "address": "Prince Sultan Rd, Jeddah, Saudi Arabia"
+    },
+    "description": "Popular Saudi burger joint known for its creative, gourmet burgers and casual atmosphere.",
+    "image_url": "/restaurants/section_b.jpg",
+    "hours": "1:00 PM - 1:00 AM",
+    "near_stadium": "Prince Abdullah Al-Faisal Stadium",
+    "popular_dishes": ["Cheese Bomb Burger", "Truffle Fries", "Milkshakes"],
+    "reservations_required": false,
+    "city": "Jeddah"
+  },
+  {
+    "id": 7,
+    "name": "Alromansiah",
+    "cuisine": "Saudi Traditional",
+    "price_range": "$$",
+    "rating": 4.5,
+    "location": {
+      "latitude": 24.4672,
+      "longitude": 39.6131,
+      "address": "King Abdullah Rd, Medina, Saudi Arabia"
+    },
+    "description": "Traditional Saudi restaurant serving authentic dishes in a family-friendly setting.",
+    "image_url": "/restaurants/alromansiah.jpg",
+    "hours": "11:00 AM - 12:00 AM",
+    "near_stadium": "King Salman Sport City Stadium",
+    "popular_dishes": ["Mandi", "Madhbi", "Saudi Kabsa"],
+    "reservations_required": false,
+    "city": "Medina"
+  },
+  {
+    "id": 8,
+    "name": "Herfy",
+    "cuisine": "Fast Food",
+    "price_range": "$",
+    "rating": 4.3,
+    "location": {
+      "latitude": 26.3927,
+      "longitude": 50.1652,
+      "address": "King Fahd Rd, Dammam, Saudi Arabia"
+    },
+    "description": "Popular Saudi fast food chain offering burgers, fried chicken, and local favorites.",
+    "image_url": "/restaurants/herfy.jpg",
+    "hours": "10:00 AM - 1:00 AM",
+    "near_stadium": "Prince Mohammed bin Fahd Stadium",
+    "popular_dishes": ["Herfy Burger", "Chicken Sandwich", "Cheese Fries"],
+    "reservations_required": false,
+    "city": "Dammam"
+  },
+  {
+    "id": 9,
+    "name": "Shababik",
+    "cuisine": "Lebanese",
+    "price_range": "$$",
+    "rating": 4.6,
+    "location": {
+      "latitude": 18.2164,
+      "longitude": 42.5053,
+      "address": "King Khalid Rd, Abha, Saudi Arabia"
+    },
+    "description": "Lebanese restaurant with stunning mountain views, serving traditional mezze and grills.",
+    "image_url": "/restaurants/shababik.jpg",
+    "hours": "12:00 PM - 12:00 AM",
+    "near_stadium": "Prince Sultan bin Abdul Aziz Stadium",
+    "popular_dishes": ["Mixed Grill", "Kibbeh", "Mountain Honey Dessert"],
+    "reservations_required": true,
+    "city": "Abha"
+  },
+  {
+    "id": 10,
+    "name": "The Globe",
+    "cuisine": "International",
+    "price_range": "$$$",
+    "rating": 4.9,
+    "location": {
+      "latitude": 24.7111,
+      "longitude": 46.7243,
+      "address": "Al Faisaliah Tower, King Fahd Rd, Riyadh, Saudi Arabia"
+    },
+    "description": "Exclusive fine dining restaurant located in the golden globe atop Al Faisaliah Tower with panoramic views of Riyadh.",
+    "image_url": "/restaurants/the_globe.jpg",
+    "hours": "7:00 PM - 12:00 AM",
+    "near_stadium": "King Fahd International Stadium",
+    "popular_dishes": ["Wagyu Steak", "Lobster Thermidor", "Gold Leaf Dessert"],
+    "reservations_required": true,
+    "city": "Riyadh"
+  },
+  {
+    "id": 11,
+    "name": "Takya",
+    "cuisine": "Modern Saudi",
+    "price_range": "$$$",
+    "rating": 4.7,
+    "location": {
+      "latitude": 24.6803,
+      "longitude": 46.7464,
+      "address": "The Zone, Riyadh, Saudi Arabia"
+    },
+    "description": "Contemporary restaurant offering modern interpretations of traditional Saudi dishes in a stylish setting.",
+    "image_url": "/restaurants/takya.jpg",
+    "hours": "5:00 PM - 12:00 AM",
+    "near_stadium": "Prince Faisal bin Fahd Stadium",
+    "popular_dishes": ["Camel Sliders", "Date Cake", "Saudi Fusion Tapas"],
+    "reservations_required": true,
+    "city": "Riyadh"
+  },
+  {
+    "id": 12,
+    "name": "Bait Al Mandi",
+    "cuisine": "Yemeni",
+    "price_range": "$$",
+    "rating": 4.5,
+    "location": {
+      "latitude": 27.5114,
+      "longitude": 41.7208,
+      "address": "King Abdulaziz Rd, Hail, Saudi Arabia"
+    },
+    "description": "Authentic Yemeni restaurant specializing in traditional mandi and madhbi dishes cooked in underground ovens.",
+    "image_url": "/restaurants/bait_al_mandi.jpg",
+    "hours": "12:00 PM - 12:00 AM",
+    "near_stadium": "Prince Abdul Aziz bin Musaed Stadium",
+    "popular_dishes": ["Lamb Mandi", "Chicken Madhbi", "Fahsa"],
+    "reservations_required": false,
+    "city": "Hail"
+  },
+  {
+    "id": 13,
+    "name": "Bistro Riyadh",
+    "cuisine": "International",
+    "price_range": "$$$",
+    "rating": 4.6,
+    "location": {
+      "latitude": 24.6382,
+      "longitude": 46.7064,
+      "address": "Ritz-Carlton, Riyadh, Saudi Arabia"
+    },
+    "description": "Elegant bistro in the Ritz-Carlton hotel offering a diverse international menu with European influences.",
+    "image_url": "/restaurants/bistro_riyadh.jpg",
+    "hours": "6:30 AM - 11:00 PM",
+    "near_stadium": "King Fahd International Stadium",
+    "popular_dishes": ["Beef Wellington", "Risotto", "Chocolate Fondant"],
+    "reservations_required": true,
+    "city": "Riyadh"
+  },
+  {
+    "id": 14,
+    "name": "Al Orjouan",
+    "cuisine": "Middle Eastern",
+    "price_range": "$$$",
+    "rating": 4.8,
+    "location": {
+      "latitude": 24.7136,
+      "longitude": 46.7241,
+      "address": "Riyadh, Saudi Arabia"
+    },
+    "description": "Luxurious restaurant in the Ritz-Carlton serving a blend of Middle Eastern and international cuisine with live cooking stations.",
+    "image_url": "/restaurants/al_orjouan.jpg",
+    "hours": "6:30 AM - 11:00 PM",
+    "near_stadium": "King Fahd International Stadium",
+    "popular_dishes": ["Arabic Mixed Grill", "Seafood Buffet", "Umm Ali"],
+    "reservations_required": true,
+    "city": "Riyadh"
+  },
+  {
+    "id": 15,
+    "name": "Pattis",
+    "cuisine": "Bakery",
+    "price_range": "$",
+    "rating": 4.4,
+    "location": {
+      "latitude": 21.7633,
+      "longitude": 39.1408,
+      "address": "Prince Sultan St, Jeddah, Saudi Arabia"
+    },
+    "description": "Popular Saudi bakery chain known for its pastries, cakes, and Arabic sweets.",
+    "image_url": "/restaurants/pattis.jpg",
+    "hours": "7:00 AM - 12:00 AM",
+    "near_stadium": "King Abdullah Sports City",
+    "popular_dishes": ["Cheese Manakish", "Date Cookies", "Arabic Coffee"],
+    "reservations_required": false,
+    "city": "Jeddah"
+  },
+  {
+    "id": 16,
+    "name": "Al Nakheel",
+    "cuisine": "Saudi Traditional",
+    "price_range": "$$",
+    "rating": 4.6,
+    "location": {
+      "latitude": 24.4672,
+      "longitude": 39.6131,
+      "address": "Northern Central Area, Medina, Saudi Arabia"
+    },
+    "description": "Authentic Saudi restaurant known for its traditional dishes served in a setting inspired by palm groves.",
+    "image_url": "/restaurants/al_nakheel.jpg",
+    "hours": "12:00 PM - 12:00 AM",
+    "near_stadium": "King Salman Sport City Stadium",
+    "popular_dishes": ["Lamb Mandi", "Chicken Madfoon", "Date Desserts"],
+    "reservations_required": false,
+    "city": "Medina"
+  },
+  {
+    "id": 17,
+    "name": "Myazu",
+    "cuisine": "Japanese",
+    "price_range": "$$$",
+    "rating": 4.7,
+    "location": {
+      "latitude": 24.7111,
+      "longitude": 46.7243,
+      "address": "Al Faisaliah Tower, King Fahd Rd, Riyadh, Saudi Arabia"
+    },
+    "description": "Upscale Japanese restaurant offering premium sushi, sashimi, and teppanyaki in an elegant setting with city views.",
+    "image_url": "/restaurants/myazu.jpg",
+    "hours": "12:30 PM - 12:00 AM",
+    "near_stadium": "King Fahd International Stadium",
+    "popular_dishes": ["Wagyu Teppanyaki", "Omakase Sushi", "Black Cod Miso"],
+    "reservations_required": true,
+    "city": "Riyadh"
+  },
+  {
+    "id": 18,
+    "name": "Shawarmer",
+    "cuisine": "Middle Eastern Fast Food",
+    "price_range": "$",
+    "rating": 4.3,
+    "location": {
+      "latitude": 26.3927,
+      "longitude": 50.1652,
+      "address": "King Fahd Rd, Dammam, Saudi Arabia"
+    },
+    "description": "Popular local chain specializing in shawarma sandwiches with various fillings and sauces in a casual setting.",
+    "image_url": "/restaurants/shawarmer.jpg",
+    "hours": "10:00 AM - 2:00 AM",
+    "near_stadium": "Prince Mohammed bin Fahd Stadium",
+    "popular_dishes": ["Chicken Shawarma", "Meat Shawarma", "Garlic Sauce"],
+    "reservations_required": false,
+    "city": "Dammam"
+  },
+  {
+    "id": 19,
+    "name": "Toki",
+    "cuisine": "Chinese",
+    "price_range": "$$",
+    "rating": 4.5,
+    "location": {
+      "latitude": 21.5433,
+      "longitude": 39.1728,
+      "address": "Tahlia St, Jeddah, Saudi Arabia"
+    },
+    "description": "Modern Chinese restaurant offering authentic Cantonese and Szechuan dishes in a contemporary setting.",
+    "image_url": "/restaurants/toki.jpg",
+    "hours": "12:00 PM - 12:00 AM",
+    "near_stadium": "King Abdullah Sports City",
+    "popular_dishes": ["Peking Duck", "Dim Sum", "Kung Pao Chicken"],
+    "reservations_required": true,
+    "city": "Jeddah"
+  },
+  {
+    "id": 20,
+    "name": "Caffe Aroma",
+    "cuisine": "Café",
+    "price_range": "$$",
+    "rating": 4.4,
+    "location": {
+      "latitude": 18.2164,
+      "longitude": 42.5053,
+      "address": "Abha Square, Abha, Saudi Arabia"
+    },
+    "description": "Cozy café with mountain views serving specialty coffee, pastries, and light meals in a relaxed atmosphere.",
+    "image_url": "/restaurants/caffe_aroma.jpg",
+    "hours": "7:00 AM - 12:00 AM",
+    "near_stadium": "Prince Sultan bin Abdul Aziz Stadium",
+    "popular_dishes": ["Arabic Coffee", "Date Cake", "Breakfast Platter"],
+    "reservations_required": false,
+    "city": "Abha"
+  },
+  {
+    "id": 21,
+    "name": "Piatto",
+    "cuisine": "Italian",
+    "price_range": "$$",
+    "rating": 4.5,
+    "location": {
+      "latitude": 24.7700,
+      "longitude": 46.6432,
+      "address": "Tahlia St, Riyadh, Saudi Arabia"
+    },
+    "description": "Authentic Italian restaurant serving wood-fired pizzas, fresh pasta, and traditional Italian dishes in a warm setting.",
+    "image_url": "/restaurants/piatto.jpg",
+    "hours": "12:00 PM - 12:00 AM",
+    "near_stadium": "King Saud University Stadium",
+    "popular_dishes": ["Margherita Pizza", "Fettuccine Alfredo", "Tiramisu"],
+    "reservations_required": false,
+    "city": "Riyadh"
+  },
+  {
+    "id": 22,
+    "name": "Hamburgini",
+    "cuisine": "Burgers",
+    "price_range": "$",
+    "rating": 4.4,
+    "location": {
+      "latitude": 26.2794,
+      "longitude": 50.2083,
+      "address": "Prince Faisal Bin Fahd Rd, Al Khobar, Saudi Arabia"
+    },
+    "description": "Popular local burger chain known for its creative gourmet burgers and loaded fries in a casual setting.",
+    "image_url": "/restaurants/hamburgini.jpg",
+    "hours": "12:00 PM - 1:00 AM",
+    "near_stadium": "Prince Saud bin Jalawi Stadium",
+    "popular_dishes": ["Classic Smash Burger", "Dynamite Fries", "Milkshakes"],
+    "reservations_required": false,
+    "city": "Khobar"
+  },
+  {
+    "id": 23,
+    "name": "Copper Chandni",
+    "cuisine": "Indian",
+    "price_range": "$$",
+    "rating": 4.6,
+    "location": {
+      "latitude": 24.7136,
+      "longitude": 46.6753,
+      "address": "Olaya St, Riyadh, Saudi Arabia"
+    },
+    "description": "Elegant Indian restaurant serving authentic North Indian cuisine with rich flavors and traditional tandoor dishes.",
+    "image_url": "/restaurants/copper_chandni.jpg",
+    "hours": "12:30 PM - 11:30 PM",
+    "near_stadium": "King Fahd International Stadium",
+    "popular_dishes": ["Butter Chicken", "Biryani", "Garlic Naan"],
+    "reservations_required": true,
+    "city": "Riyadh"
+  },
+  {
+    "id": 24,
+    "name": "Bafarat Café",
+    "cuisine": "Café",
+    "price_range": "$$",
+    "rating": 4.7,
+    "location": {
+      "latitude": 21.5169,
+      "longitude": 39.1694,
+      "address": "Al Khalidiyyah, Jeddah, Saudi Arabia"
+    },
+    "description": "Elegant café known for its premium coffee, gourmet chocolates, and French pastries in a sophisticated setting.",
+    "image_url": "/restaurants/bafarat.jpg",
+    "hours": "7:00 AM - 12:00 AM",
+    "near_stadium": "Prince Abdullah Al-Faisal Stadium",
+    "popular_dishes": ["Saffron Coffee", "Pistachio Croissant", "Chocolate Truffles"],
+    "reservations_required": false,
+    "city": "Jeddah"
+  },
+  {
+    "id": 25,
+    "name": "Burj Al Hamam",
+    "cuisine": "Lebanese",
+    "price_range": "$$$",
+    "rating": 4.8,
+    "location": {
+      "latitude": 24.6803,
+      "longitude": 46.7464,
+      "address": "The Zone, Riyadh, Saudi Arabia"
+    },
+    "description": "Upscale Lebanese restaurant offering authentic mezze, grilled meats, and traditional dishes in an elegant atmosphere.",
+    "image_url": "/restaurants/burj_al_hamam.jpg",
+    "hours": "12:00 PM - 12:00 AM",
+    "near_stadium": "Prince Faisal bin Fahd Stadium",
+    "popular_dishes": ["Mixed Grill", "Hummus with Meat", "Knafeh"],
+    "reservations_required": true,
+    "city": "Riyadh"
+  }
+]

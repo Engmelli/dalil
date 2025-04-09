@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1,
+    "name": "Four Seasons Hotel Riyadh",
+    "city": "Riyadh",
+    "lat": 24.7111,
+    "lon": 46.7243,
+    "description": "Luxury hotel located in the Kingdom Centre, close to King Fahd International Stadium.",
+    "rating": 5,
+    "amenities": ["pool", "spa", "gym", "restaurant", "wifi", "room_service"],
+    "image_path": "/hotels/four_seasons.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Ritz-Carlton Riyadh",
+    "city": "Riyadh",
+    "lat": 24.6382,
+    "lon": 46.7064,
+    "description": "Opulent palace-style hotel with extensive gardens and luxury amenities.",
+    "rating": 5,
+    "amenities": ["pool", "spa", "gym", "restaurant", "wifi", "room_service", "business_center"],
+    "image_path": "/hotels/ritz_carlton.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Hilton Jeddah",
+    "city": "Jeddah",
+    "lat": 21.5169,
+    "lon": 39.1694,
+    "description": "Beachfront hotel with stunning views of the Red Sea, convenient to King Abdullah Sports City.",
+    "rating": 4,
+    "amenities": ["pool", "gym", "restaurant", "wifi", "beach_access", "room_service"],
+    "image_path": "/hotels/hilton_jeddah.jpg"
+  },
+  {
+    "id": 4,
+    "name": "InterContinental Dammam",
+    "city": "Dammam",
+    "lat": 26.4207,
+    "lon": 50.0888,
+    "description": "Modern hotel in the heart of Dammam's business district with views of the Arabian Gulf.",
+    "rating": 4,
+    "amenities": ["pool", "spa", "gym", "restaurant", "wifi", "business_center"],
+    "image_path": "/hotels/intercontinental_dammam.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Mövenpick Hotel Makkah",
+    "city": "Makkah",
+    "lat": 21.4225,
+    "lon": 39.8262,
+    "description": "Contemporary hotel offering easy access to the holy sites and King Abdullah Stadium.",
+    "rating": 4,
+    "amenities": ["restaurant", "wifi", "prayer_room", "room_service", "business_center"],
+    "image_path": "/hotels/movenpick_makkah.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Radisson Blu Hotel Medina",
+    "city": "Medina",
+    "lat": 24.4672,
+    "lon": 39.6131,
+    "description": "Elegant hotel located near Prince Mohammed Bin Abdulaziz Stadium with modern amenities.",
+    "rating": 4,
+    "amenities": ["restaurant", "wifi", "prayer_room", "room_service", "gym"],
+    "image_path": "/hotels/radisson_medina.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Hyatt Regency Tabuk",
+    "city": "Tabuk",
+    "lat": 28.3998,
+    "lon": 36.5715,
+    "description": "Modern hotel in Tabuk with easy access to King Khalid Sports City.",
+    "rating": 4,
+    "amenities": ["pool", "gym", "restaurant", "wifi", "room_service"],
+    "image_path": "/hotels/hyatt_tabuk.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Sheraton Abha Hotel",
+    "city": "Abha",
+    "lat": 18.2164,
+    "lon": 42.5053,
+    "description": "Mountain resort hotel with stunning views of the Asir Mountains, near Abha Sports Stadium.",
+    "rating": 4,
+    "amenities": ["pool", "spa", "restaurant", "wifi", "room_service", "mountain_views"],
+    "image_path": "/hotels/sheraton_abha.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Kempinski Al Othman Hotel Al Khobar",
+    "city": "Al Khobar",
+    "lat": 26.2794,
+    "lon": 50.2083,
+    "description": "Luxury hotel featuring twin towers with panoramic views of Al Khobar city and the Arabian Gulf.",
+    "rating": 5,
+    "amenities": ["pool", "spa", "gym", "restaurant", "wifi", "room_service", "business_center"],
+    "image_path": "/hotels/kempinski_alkhobar.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Park Inn by Radisson Najran",
+    "city": "Najran",
+    "lat": 17.4924,
+    "lon": 44.1277,
+    "description": "Contemporary hotel in Najran with easy access to local attractions and sports venues.",
+    "rating": 3,
+    "amenities": ["pool", "gym", "restaurant", "wifi", "room_service"],
+    "image_path": "/hotels/parkinn_najran.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Millennium Hotel Hail",
+    "city": "Hail",
+    "lat": 27.5114,
+    "lon": 41.7208,
+    "description": "Modern hotel in the center of Hail with convenient access to Prince Abdul Aziz Bin Musaed Stadium.",
+    "rating": 4,
+    "amenities": ["pool", "gym", "restaurant", "wifi", "room_service", "business_center"],
+    "image_path": "/hotels/millennium_hail.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Assila, a Luxury Collection Hotel, Jeddah",
+    "city": "Jeddah",
+    "lat": 21.5433,
+    "lon": 39.1728,
+    "description": "Luxury beachfront hotel with contemporary Arabian design and art collection.",
+    "rating": 5,
+    "amenities": ["pool", "spa", "gym", "restaurant", "wifi", "room_service", "art_gallery", "beach_access"],
+    "image_path": "/hotels/assila_jeddah.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Crowne Plaza Riyadh RDC Hotel & Convention",
+    "city": "Riyadh",
+    "lat": 24.7700,
+    "lon": 46.6432,
+    "description": "Modern convention hotel located in the Digital City, close to King Saud University Stadium.",
+    "rating": 4,
+    "amenities": ["pool", "gym", "restaurant", "wifi", "business_center", "conference_facilities"],
+    "image_path": "/hotels/crowneplaza_riyadh.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Le Meridien Al Khobar",
+    "city": "Al Khobar",
+    "lat": 26.2851,
+    "lon": 50.2131,
+    "description": "Elegant hotel with Arabian Gulf views and convenient location to Prince Saud bin Jalawi Stadium.",
+    "rating": 4,
+    "amenities": ["pool", "spa", "gym", "restaurant", "wifi", "room_service", "beach_club"],
+    "image_path": "/hotels/lemeridien_alkhobar.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Swiss International Al Hamra Hotel Jeddah",
+    "city": "Jeddah",
+    "lat": 21.4858,
+    "lon": 39.1925,
+    "description": "Business hotel located in the heart of Jeddah with easy access to King Abdullah Sports City.",
+    "rating": 3,
+    "amenities": ["restaurant", "wifi", "business_center", "room_service", "gym"],
+    "image_path": "/hotels/swiss_jeddah.jpg"
+  }
+]

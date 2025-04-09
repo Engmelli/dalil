@@ -1,0 +1,1530 @@
+[
+  {
+    "id": 1,
+    "team_a": "Saudi Arabia",
+    "team_b": "Australia",
+    "date": "2034-06-12",
+    "time": "16:00",
+    "stage": "group",
+    "group": "A",
+    "stadium_id": 4,
+    "result": {
+      "score_a": 1,
+      "score_b": 3
+    },
+    "winner": "Australia"
+  },
+  {
+    "id": 2,
+    "team_a": "Saudi Arabia",
+    "team_b": "Qatar",
+    "date": "2034-06-12",
+    "time": "19:00",
+    "stage": "group",
+    "group": "A",
+    "stadium_id": 7,
+    "result": {
+      "score_a": 2,
+      "score_b": 3
+    },
+    "winner": "Qatar"
+  },
+  {
+    "id": 3,
+    "team_a": "Saudi Arabia",
+    "team_b": "Egypt",
+    "date": "2034-06-13",
+    "time": "19:00",
+    "stage": "group",
+    "group": "A",
+    "stadium_id": 1,
+    "result": {
+      "score_a": 1,
+      "score_b": 2
+    },
+    "winner": "Egypt"
+  },
+  {
+    "id": 4,
+    "team_a": "Australia",
+    "team_b": "Qatar",
+    "date": "2034-06-13",
+    "time": "16:00",
+    "stage": "group",
+    "group": "A",
+    "stadium_id": 8,
+    "result": {
+      "score_a": 0,
+      "score_b": 0
+    },
+    "winner": null
+  },
+  {
+    "id": 5,
+    "team_a": "Australia",
+    "team_b": "Egypt",
+    "date": "2034-06-14",
+    "time": "16:00",
+    "stage": "group",
+    "group": "A",
+    "stadium_id": 7,
+    "result": {
+      "score_a": 2,
+      "score_b": 0
+    },
+    "winner": "Australia"
+  },
+  {
+    "id": 6,
+    "team_a": "Qatar",
+    "team_b": "Egypt",
+    "date": "2034-06-14",
+    "time": "16:00",
+    "stage": "group",
+    "group": "A",
+    "stadium_id": 4,
+    "result": {
+      "score_a": 4,
+      "score_b": 2
+    },
+    "winner": "Qatar"
+  },
+  {
+    "id": 7,
+    "team_a": "Brazil",
+    "team_b": "France",
+    "date": "2034-06-16",
+    "time": "16:00",
+    "stage": "group",
+    "group": "B",
+    "stadium_id": 7,
+    "result": {
+      "score_a": 2,
+      "score_b": 4
+    },
+    "winner": "France"
+  },
+  {
+    "id": 8,
+    "team_a": "Brazil",
+    "team_b": "USA",
+    "date": "2034-06-16",
+    "time": "19:00",
+    "stage": "group",
+    "group": "B",
+    "stadium_id": 8,
+    "result": {
+      "score_a": 4,
+      "score_b": 0
+    },
+    "winner": "Brazil"
+  },
+  {
+    "id": 9,
+    "team_a": "Brazil",
+    "team_b": "Netherlands",
+    "date": "2034-06-17",
+    "time": "16:00",
+    "stage": "group",
+    "group": "B",
+    "stadium_id": 7,
+    "result": {
+      "score_a": 2,
+      "score_b": 0
+    },
+    "winner": "Brazil"
+  },
+  {
+    "id": 10,
+    "team_a": "France",
+    "team_b": "USA",
+    "date": "2034-06-17",
+    "time": "19:00",
+    "stage": "group",
+    "group": "B",
+    "stadium_id": 4,
+    "result": {
+      "score_a": 0,
+      "score_b": 4
+    },
+    "winner": "USA"
+  },
+  {
+    "id": 11,
+    "team_a": "France",
+    "team_b": "Netherlands",
+    "date": "2034-06-18",
+    "time": "19:00",
+    "stage": "group",
+    "group": "B",
+    "stadium_id": 7,
+    "result": {
+      "score_a": 4,
+      "score_b": 1
+    },
+    "winner": "France"
+  },
+  {
+    "id": 12,
+    "team_a": "USA",
+    "team_b": "Netherlands",
+    "date": "2034-06-18",
+    "time": "16:00",
+    "stage": "group",
+    "group": "B",
+    "stadium_id": 6,
+    "result": {
+      "score_a": 2,
+      "score_b": 2
+    },
+    "winner": null
+  },
+  {
+    "id": 13,
+    "team_a": "Germany",
+    "team_b": "Argentina",
+    "date": "2034-06-20",
+    "time": "19:00",
+    "stage": "group",
+    "group": "C",
+    "stadium_id": 2,
+    "result": {
+      "score_a": 1,
+      "score_b": 1
+    },
+    "winner": null
+  },
+  {
+    "id": 14,
+    "team_a": "Germany",
+    "team_b": "Mexico",
+    "date": "2034-06-20",
+    "time": "16:00",
+    "stage": "group",
+    "group": "C",
+    "stadium_id": 2,
+    "result": {
+      "score_a": 2,
+      "score_b": 2
+    },
+    "winner": null
+  },
+  {
+    "id": 15,
+    "team_a": "Germany",
+    "team_b": "Croatia",
+    "date": "2034-06-21",
+    "time": "16:00",
+    "stage": "group",
+    "group": "C",
+    "stadium_id": 8,
+    "result": {
+      "score_a": 4,
+      "score_b": 2
+    },
+    "winner": "Germany"
+  },
+  {
+    "id": 16,
+    "team_a": "Argentina",
+    "team_b": "Mexico",
+    "date": "2034-06-21",
+    "time": "16:00",
+    "stage": "group",
+    "group": "C",
+    "stadium_id": 4,
+    "result": {
+      "score_a": 3,
+      "score_b": 2
+    },
+    "winner": "Argentina"
+  },
+  {
+    "id": 17,
+    "team_a": "Argentina",
+    "team_b": "Croatia",
+    "date": "2034-06-22",
+    "time": "16:00",
+    "stage": "group",
+    "group": "C",
+    "stadium_id": 1,
+    "result": {
+      "score_a": 2,
+      "score_b": 1
+    },
+    "winner": "Argentina"
+  },
+  {
+    "id": 18,
+    "team_a": "Mexico",
+    "team_b": "Croatia",
+    "date": "2034-06-22",
+    "time": "16:00",
+    "stage": "group",
+    "group": "C",
+    "stadium_id": 7,
+    "result": {
+      "score_a": 1,
+      "score_b": 2
+    },
+    "winner": "Croatia"
+  },
+  {
+    "id": 19,
+    "team_a": "Spain",
+    "team_b": "Portugal",
+    "date": "2034-06-24",
+    "time": "19:00",
+    "stage": "group",
+    "group": "D",
+    "stadium_id": 1,
+    "result": {
+      "score_a": 0,
+      "score_b": 4
+    },
+    "winner": "Portugal"
+  },
+  {
+    "id": 20,
+    "team_a": "Spain",
+    "team_b": "England",
+    "date": "2034-06-24",
+    "time": "19:00",
+    "stage": "group",
+    "group": "D",
+    "stadium_id": 6,
+    "result": {
+      "score_a": 2,
+      "score_b": 2
+    },
+    "winner": null
+  },
+  {
+    "id": 21,
+    "team_a": "Spain",
+    "team_b": "Italy",
+    "date": "2034-06-25",
+    "time": "19:00",
+    "stage": "group",
+    "group": "D",
+    "stadium_id": 3,
+    "result": {
+      "score_a": 3,
+      "score_b": 2
+    },
+    "winner": "Spain"
+  },
+  {
+    "id": 22,
+    "team_a": "Portugal",
+    "team_b": "England",
+    "date": "2034-06-25",
+    "time": "16:00",
+    "stage": "group",
+    "group": "D",
+    "stadium_id": 5,
+    "result": {
+      "score_a": 1,
+      "score_b": 3
+    },
+    "winner": "England"
+  },
+  {
+    "id": 23,
+    "team_a": "Portugal",
+    "team_b": "Italy",
+    "date": "2034-06-26",
+    "time": "19:00",
+    "stage": "group",
+    "group": "D",
+    "stadium_id": 2,
+    "result": {
+      "score_a": 2,
+      "score_b": 0
+    },
+    "winner": "Portugal"
+  },
+  {
+    "id": 24,
+    "team_a": "England",
+    "team_b": "Italy",
+    "date": "2034-06-26",
+    "time": "16:00",
+    "stage": "group",
+    "group": "D",
+    "stadium_id": 3,
+    "result": {
+      "score_a": 0,
+      "score_b": 4
+    },
+    "winner": "Italy"
+  },
+  {
+    "id": 25,
+    "team_a": "Belgium",
+    "team_b": "Uruguay",
+    "date": "2034-06-28",
+    "time": "19:00",
+    "stage": "group",
+    "group": "E",
+    "stadium_id": 7,
+    "result": {
+      "score_a": 1,
+      "score_b": 0
+    },
+    "winner": "Belgium"
+  },
+  {
+    "id": 26,
+    "team_a": "Belgium",
+    "team_b": "Denmark",
+    "date": "2034-06-28",
+    "time": "19:00",
+    "stage": "group",
+    "group": "E",
+    "stadium_id": 7,
+    "result": {
+      "score_a": 2,
+      "score_b": 4
+    },
+    "winner": "Denmark"
+  },
+  {
+    "id": 27,
+    "team_a": "Belgium",
+    "team_b": "Sweden",
+    "date": "2034-06-29",
+    "time": "16:00",
+    "stage": "group",
+    "group": "E",
+    "stadium_id": 5,
+    "result": {
+      "score_a": 4,
+      "score_b": 0
+    },
+    "winner": "Belgium"
+  },
+  {
+    "id": 28,
+    "team_a": "Uruguay",
+    "team_b": "Denmark",
+    "date": "2034-06-29",
+    "time": "19:00",
+    "stage": "group",
+    "group": "E",
+    "stadium_id": 5,
+    "result": {
+      "score_a": 4,
+      "score_b": 1
+    },
+    "winner": "Uruguay"
+  },
+  {
+    "id": 29,
+    "team_a": "Uruguay",
+    "team_b": "Sweden",
+    "date": "2034-06-30",
+    "time": "19:00",
+    "stage": "group",
+    "group": "E",
+    "stadium_id": 8,
+    "result": {
+      "score_a": 4,
+      "score_b": 3
+    },
+    "winner": "Uruguay"
+  },
+  {
+    "id": 30,
+    "team_a": "Denmark",
+    "team_b": "Sweden",
+    "date": "2034-06-30",
+    "time": "16:00",
+    "stage": "group",
+    "group": "E",
+    "stadium_id": 3,
+    "result": {
+      "score_a": 3,
+      "score_b": 2
+    },
+    "winner": "Denmark"
+  },
+  {
+    "id": 31,
+    "team_a": "Colombia",
+    "team_b": "Switzerland",
+    "date": "2034-07-02",
+    "time": "16:00",
+    "stage": "group",
+    "group": "F",
+    "stadium_id": 5,
+    "result": {
+      "score_a": 2,
+      "score_b": 4
+    },
+    "winner": "Switzerland"
+  },
+  {
+    "id": 32,
+    "team_a": "Colombia",
+    "team_b": "Japan",
+    "date": "2034-07-02",
+    "time": "19:00",
+    "stage": "group",
+    "group": "F",
+    "stadium_id": 8,
+    "result": {
+      "score_a": 4,
+      "score_b": 1
+    },
+    "winner": "Colombia"
+  },
+  {
+    "id": 33,
+    "team_a": "Colombia",
+    "team_b": "South Korea",
+    "date": "2034-07-03",
+    "time": "16:00",
+    "stage": "group",
+    "group": "F",
+    "stadium_id": 8,
+    "result": {
+      "score_a": 1,
+      "score_b": 2
+    },
+    "winner": "South Korea"
+  },
+  {
+    "id": 34,
+    "team_a": "Switzerland",
+    "team_b": "Japan",
+    "date": "2034-07-03",
+    "time": "19:00",
+    "stage": "group",
+    "group": "F",
+    "stadium_id": 8,
+    "result": {
+      "score_a": 3,
+      "score_b": 0
+    },
+    "winner": "Switzerland"
+  },
+  {
+    "id": 35,
+    "team_a": "Switzerland",
+    "team_b": "South Korea",
+    "date": "2034-07-04",
+    "time": "16:00",
+    "stage": "group",
+    "group": "F",
+    "stadium_id": 4,
+    "result": {
+      "score_a": 0,
+      "score_b": 2
+    },
+    "winner": "South Korea"
+  },
+  {
+    "id": 36,
+    "team_a": "Japan",
+    "team_b": "South Korea",
+    "date": "2034-07-04",
+    "time": "16:00",
+    "stage": "group",
+    "group": "F",
+    "stadium_id": 3,
+    "result": {
+      "score_a": 3,
+      "score_b": 0
+    },
+    "winner": "Japan"
+  },
+  {
+    "id": 37,
+    "team_a": "Senegal",
+    "team_b": "Morocco",
+    "date": "2034-07-06",
+    "time": "16:00",
+    "stage": "group",
+    "group": "G",
+    "stadium_id": 7,
+    "result": {
+      "score_a": 4,
+      "score_b": 2
+    },
+    "winner": "Senegal"
+  },
+  {
+    "id": 38,
+    "team_a": "Senegal",
+    "team_b": "Nigeria",
+    "date": "2034-07-06",
+    "time": "16:00",
+    "stage": "group",
+    "group": "G",
+    "stadium_id": 4,
+    "result": {
+      "score_a": 2,
+      "score_b": 2
+    },
+    "winner": null
+  },
+  {
+    "id": 39,
+    "team_a": "Senegal",
+    "team_b": "Ghana",
+    "date": "2034-07-07",
+    "time": "19:00",
+    "stage": "group",
+    "group": "G",
+    "stadium_id": 3,
+    "result": {
+      "score_a": 4,
+      "score_b": 1
+    },
+    "winner": "Senegal"
+  },
+  {
+    "id": 40,
+    "team_a": "Morocco",
+    "team_b": "Nigeria",
+    "date": "2034-07-07",
+    "time": "19:00",
+    "stage": "group",
+    "group": "G",
+    "stadium_id": 4,
+    "result": {
+      "score_a": 4,
+      "score_b": 4
+    },
+    "winner": null
+  },
+  {
+    "id": 41,
+    "team_a": "Morocco",
+    "team_b": "Ghana",
+    "date": "2034-07-08",
+    "time": "19:00",
+    "stage": "group",
+    "group": "G",
+    "stadium_id": 7,
+    "result": {
+      "score_a": 3,
+      "score_b": 1
+    },
+    "winner": "Morocco"
+  },
+  {
+    "id": 42,
+    "team_a": "Nigeria",
+    "team_b": "Ghana",
+    "date": "2034-07-08",
+    "time": "19:00",
+    "stage": "group",
+    "group": "G",
+    "stadium_id": 8,
+    "result": {
+      "score_a": 1,
+      "score_b": 2
+    },
+    "winner": "Ghana"
+  },
+  {
+    "id": 43,
+    "team_a": "Ukraine",
+    "team_b": "Poland",
+    "date": "2034-07-10",
+    "time": "16:00",
+    "stage": "group",
+    "group": "H",
+    "stadium_id": 6,
+    "result": {
+      "score_a": 2,
+      "score_b": 1
+    },
+    "winner": "Ukraine"
+  },
+  {
+    "id": 44,
+    "team_a": "Ukraine",
+    "team_b": "Serbia",
+    "date": "2034-07-10",
+    "time": "19:00",
+    "stage": "group",
+    "group": "H",
+    "stadium_id": 6,
+    "result": {
+      "score_a": 4,
+      "score_b": 2
+    },
+    "winner": "Ukraine"
+  },
+  {
+    "id": 45,
+    "team_a": "Ukraine",
+    "team_b": "Ecuador",
+    "date": "2034-07-11",
+    "time": "16:00",
+    "stage": "group",
+    "group": "H",
+    "stadium_id": 3,
+    "result": {
+      "score_a": 1,
+      "score_b": 4
+    },
+    "winner": "Ecuador"
+  },
+  {
+    "id": 46,
+    "team_a": "Poland",
+    "team_b": "Serbia",
+    "date": "2034-07-11",
+    "time": "19:00",
+    "stage": "group",
+    "group": "H",
+    "stadium_id": 6,
+    "result": {
+      "score_a": 3,
+      "score_b": 2
+    },
+    "winner": "Poland"
+  },
+  {
+    "id": 47,
+    "team_a": "Poland",
+    "team_b": "Ecuador",
+    "date": "2034-07-12",
+    "time": "16:00",
+    "stage": "group",
+    "group": "H",
+    "stadium_id": 4,
+    "result": {
+      "score_a": 1,
+      "score_b": 0
+    },
+    "winner": "Poland"
+  },
+  {
+    "id": 48,
+    "team_a": "Serbia",
+    "team_b": "Ecuador",
+    "date": "2034-07-12",
+    "time": "19:00",
+    "stage": "group",
+    "group": "H",
+    "stadium_id": 4,
+    "result": {
+      "score_a": 3,
+      "score_b": 1
+    },
+    "winner": "Serbia"
+  },
+  {
+    "id": 49,
+    "team_a": "Chile",
+    "team_b": "Turkey",
+    "date": "2034-07-14",
+    "time": "16:00",
+    "stage": "group",
+    "group": "I",
+    "stadium_id": 5,
+    "result": {
+      "score_a": 3,
+      "score_b": 1
+    },
+    "winner": "Chile"
+  },
+  {
+    "id": 50,
+    "team_a": "Chile",
+    "team_b": "Peru",
+    "date": "2034-07-14",
+    "time": "19:00",
+    "stage": "group",
+    "group": "I",
+    "stadium_id": 2,
+    "result": {
+      "score_a": 4,
+      "score_b": 2
+    },
+    "winner": "Chile"
+  },
+  {
+    "id": 51,
+    "team_a": "Chile",
+    "team_b": "Iran",
+    "date": "2034-07-15",
+    "time": "19:00",
+    "stage": "group",
+    "group": "I",
+    "stadium_id": 1,
+    "result": {
+      "score_a": 3,
+      "score_b": 0
+    },
+    "winner": "Chile"
+  },
+  {
+    "id": 52,
+    "team_a": "Turkey",
+    "team_b": "Peru",
+    "date": "2034-07-15",
+    "time": "19:00",
+    "stage": "group",
+    "group": "I",
+    "stadium_id": 3,
+    "result": {
+      "score_a": 2,
+      "score_b": 0
+    },
+    "winner": "Turkey"
+  },
+  {
+    "id": 53,
+    "team_a": "Turkey",
+    "team_b": "Iran",
+    "date": "2034-07-16",
+    "time": "19:00",
+    "stage": "group",
+    "group": "I",
+    "stadium_id": 6,
+    "result": {
+      "score_a": 3,
+      "score_b": 2
+    },
+    "winner": "Turkey"
+  },
+  {
+    "id": 54,
+    "team_a": "Peru",
+    "team_b": "Iran",
+    "date": "2034-07-16",
+    "time": "19:00",
+    "stage": "group",
+    "group": "I",
+    "stadium_id": 1,
+    "result": {
+      "score_a": 4,
+      "score_b": 3
+    },
+    "winner": "Peru"
+  },
+  {
+    "id": 55,
+    "team_a": "Canada",
+    "team_b": "Algeria",
+    "date": "2034-07-18",
+    "time": "19:00",
+    "stage": "group",
+    "group": "J",
+    "stadium_id": 4,
+    "result": {
+      "score_a": 1,
+      "score_b": 4
+    },
+    "winner": "Algeria"
+  },
+  {
+    "id": 56,
+    "team_a": "Canada",
+    "team_b": "Cameroon",
+    "date": "2034-07-18",
+    "time": "19:00",
+    "stage": "group",
+    "group": "J",
+    "stadium_id": 4,
+    "result": {
+      "score_a": 2,
+      "score_b": 3
+    },
+    "winner": "Cameroon"
+  },
+  {
+    "id": 57,
+    "team_a": "Canada",
+    "team_b": "Tunisia",
+    "date": "2034-07-19",
+    "time": "19:00",
+    "stage": "group",
+    "group": "J",
+    "stadium_id": 2,
+    "result": {
+      "score_a": 4,
+      "score_b": 2
+    },
+    "winner": "Canada"
+  },
+  {
+    "id": 58,
+    "team_a": "Algeria",
+    "team_b": "Cameroon",
+    "date": "2034-07-19",
+    "time": "19:00",
+    "stage": "group",
+    "group": "J",
+    "stadium_id": 4,
+    "result": {
+      "score_a": 4,
+      "score_b": 4
+    },
+    "winner": null
+  },
+  {
+    "id": 59,
+    "team_a": "Algeria",
+    "team_b": "Tunisia",
+    "date": "2034-07-20",
+    "time": "16:00",
+    "stage": "group",
+    "group": "J",
+    "stadium_id": 1,
+    "result": {
+      "score_a": 2,
+      "score_b": 0
+    },
+    "winner": "Algeria"
+  },
+  {
+    "id": 60,
+    "team_a": "Cameroon",
+    "team_b": "Tunisia",
+    "date": "2034-07-20",
+    "time": "19:00",
+    "stage": "group",
+    "group": "J",
+    "stadium_id": 3,
+    "result": {
+      "score_a": 3,
+      "score_b": 0
+    },
+    "winner": "Cameroon"
+  },
+  {
+    "id": 61,
+    "team_a": "Wales",
+    "team_b": "Scotland",
+    "date": "2034-07-22",
+    "time": "19:00",
+    "stage": "group",
+    "group": "K",
+    "stadium_id": 8,
+    "result": {
+      "score_a": 4,
+      "score_b": 3
+    },
+    "winner": "Wales"
+  },
+  {
+    "id": 62,
+    "team_a": "Wales",
+    "team_b": "Czech Republic",
+    "date": "2034-07-22",
+    "time": "16:00",
+    "stage": "group",
+    "group": "K",
+    "stadium_id": 3,
+    "result": {
+      "score_a": 1,
+      "score_b": 3
+    },
+    "winner": "Czech Republic"
+  },
+  {
+    "id": 63,
+    "team_a": "Wales",
+    "team_b": "Russia",
+    "date": "2034-07-23",
+    "time": "16:00",
+    "stage": "group",
+    "group": "K",
+    "stadium_id": 5,
+    "result": {
+      "score_a": 2,
+      "score_b": 0
+    },
+    "winner": "Wales"
+  },
+  {
+    "id": 64,
+    "team_a": "Scotland",
+    "team_b": "Czech Republic",
+    "date": "2034-07-23",
+    "time": "19:00",
+    "stage": "group",
+    "group": "K",
+    "stadium_id": 1,
+    "result": {
+      "score_a": 2,
+      "score_b": 2
+    },
+    "winner": null
+  },
+  {
+    "id": 65,
+    "team_a": "Scotland",
+    "team_b": "Russia",
+    "date": "2034-07-24",
+    "time": "19:00",
+    "stage": "group",
+    "group": "K",
+    "stadium_id": 8,
+    "result": {
+      "score_a": 4,
+      "score_b": 2
+    },
+    "winner": "Scotland"
+  },
+  {
+    "id": 66,
+    "team_a": "Czech Republic",
+    "team_b": "Russia",
+    "date": "2034-07-24",
+    "time": "16:00",
+    "stage": "group",
+    "group": "K",
+    "stadium_id": 2,
+    "result": {
+      "score_a": 4,
+      "score_b": 4
+    },
+    "winner": null
+  },
+  {
+    "id": 67,
+    "team_a": "Iceland",
+    "team_b": "Costa Rica",
+    "date": "2034-07-26",
+    "time": "19:00",
+    "stage": "group",
+    "group": "L",
+    "stadium_id": 2,
+    "result": {
+      "score_a": 1,
+      "score_b": 4
+    },
+    "winner": "Costa Rica"
+  },
+  {
+    "id": 68,
+    "team_a": "Iceland",
+    "team_b": "Hungary",
+    "date": "2034-07-26",
+    "time": "19:00",
+    "stage": "group",
+    "group": "L",
+    "stadium_id": 8,
+    "result": {
+      "score_a": 1,
+      "score_b": 0
+    },
+    "winner": "Iceland"
+  },
+  {
+    "id": 69,
+    "team_a": "Iceland",
+    "team_b": "Norway",
+    "date": "2034-07-27",
+    "time": "19:00",
+    "stage": "group",
+    "group": "L",
+    "stadium_id": 7,
+    "result": {
+      "score_a": 2,
+      "score_b": 2
+    },
+    "winner": null
+  },
+  {
+    "id": 70,
+    "team_a": "Costa Rica",
+    "team_b": "Hungary",
+    "date": "2034-07-27",
+    "time": "19:00",
+    "stage": "group",
+    "group": "L",
+    "stadium_id": 8,
+    "result": {
+      "score_a": 3,
+      "score_b": 1
+    },
+    "winner": "Costa Rica"
+  },
+  {
+    "id": 71,
+    "team_a": "Costa Rica",
+    "team_b": "Norway",
+    "date": "2034-07-28",
+    "time": "19:00",
+    "stage": "group",
+    "group": "L",
+    "stadium_id": 4,
+    "result": {
+      "score_a": 4,
+      "score_b": 4
+    },
+    "winner": null
+  },
+  {
+    "id": 72,
+    "team_a": "Hungary",
+    "team_b": "Norway",
+    "date": "2034-07-28",
+    "time": "16:00",
+    "stage": "group",
+    "group": "L",
+    "stadium_id": 3,
+    "result": {
+      "score_a": 0,
+      "score_b": 0
+    },
+    "winner": null
+  },
+  {
+    "id": 73,
+    "team_a": "Turkey",
+    "team_b": "Morocco",
+    "date": "2034-08-02",
+    "time": "19:00",
+    "stage": "round_of_32",
+    "stadium_id": 1,
+    "result": {
+      "score_a": 1,
+      "score_b": 2
+    },
+    "winner": "Morocco"
+  },
+  {
+    "id": 74,
+    "team_a": "Algeria",
+    "team_b": "Spain",
+    "date": "2034-08-02",
+    "time": "16:00",
+    "stage": "round_of_32",
+    "stadium_id": 5,
+    "result": {
+      "score_a": 3,
+      "score_b": 2
+    },
+    "winner": "Algeria"
+  },
+  {
+    "id": 75,
+    "team_a": "Czech Republic",
+    "team_b": "Iceland",
+    "date": "2034-08-03",
+    "time": "16:00",
+    "stage": "round_of_32",
+    "stadium_id": 2,
+    "result": {
+      "score_a": 2,
+      "score_b": 1
+    },
+    "winner": "Czech Republic"
+  },
+  {
+    "id": 76,
+    "team_a": "Canada",
+    "team_b": "Argentina",
+    "date": "2034-08-03",
+    "time": "19:00",
+    "stage": "round_of_32",
+    "stadium_id": 4,
+    "result": {
+      "score_a": 3,
+      "score_b": 0
+    },
+    "winner": "Canada"
+  },
+  {
+    "id": 77,
+    "team_a": "Belgium",
+    "team_b": "Germany",
+    "date": "2034-08-04",
+    "time": "19:00",
+    "stage": "round_of_32",
+    "stadium_id": 5,
+    "result": {
+      "score_a": 0,
+      "score_b": 2
+    },
+    "winner": "Germany"
+  },
+  {
+    "id": 78,
+    "team_a": "Poland",
+    "team_b": "Denmark",
+    "date": "2034-08-04",
+    "time": "16:00",
+    "stage": "round_of_32",
+    "stadium_id": 3,
+    "result": {
+      "score_a": 3,
+      "score_b": 2
+    },
+    "winner": "Poland"
+  },
+  {
+    "id": 79,
+    "team_a": "Ukraine",
+    "team_b": "Colombia",
+    "date": "2034-08-05",
+    "time": "16:00",
+    "stage": "round_of_32",
+    "stadium_id": 7,
+    "result": {
+      "score_a": 0,
+      "score_b": 1
+    },
+    "winner": "Colombia"
+  },
+  {
+    "id": 80,
+    "team_a": "England",
+    "team_b": "Brazil",
+    "date": "2034-08-05",
+    "time": "19:00",
+    "stage": "round_of_32",
+    "stadium_id": 6,
+    "result": {
+      "score_a": 3,
+      "score_b": 2
+    },
+    "winner": "England"
+  },
+  {
+    "id": 81,
+    "team_a": "Senegal",
+    "team_b": "Wales",
+    "date": "2034-08-06",
+    "time": "19:00",
+    "stage": "round_of_32",
+    "stadium_id": 5,
+    "result": {
+      "score_a": 0,
+      "score_b": 3
+    },
+    "winner": "Wales"
+  },
+  {
+    "id": 82,
+    "team_a": "Australia",
+    "team_b": "Costa Rica",
+    "date": "2034-08-06",
+    "time": "19:00",
+    "stage": "round_of_32",
+    "stadium_id": 6,
+    "result": {
+      "score_a": 1,
+      "score_b": 2
+    },
+    "winner": "Costa Rica"
+  },
+  {
+    "id": 83,
+    "team_a": "Qatar",
+    "team_b": "USA",
+    "date": "2034-08-07",
+    "time": "16:00",
+    "stage": "round_of_32",
+    "stadium_id": 4,
+    "result": {
+      "score_a": 1,
+      "score_b": 0
+    },
+    "winner": "Qatar"
+  },
+  {
+    "id": 84,
+    "team_a": "Portugal",
+    "team_b": "Scotland",
+    "date": "2034-08-07",
+    "time": "16:00",
+    "stage": "round_of_32",
+    "stadium_id": 5,
+    "result": {
+      "score_a": 3,
+      "score_b": 2
+    },
+    "winner": "Portugal"
+  },
+  {
+    "id": 85,
+    "team_a": "Cameroon",
+    "team_b": "South Korea",
+    "date": "2034-08-08",
+    "time": "19:00",
+    "stage": "round_of_32",
+    "stadium_id": 2,
+    "result": {
+      "score_a": 3,
+      "score_b": 1
+    },
+    "winner": "Cameroon"
+  },
+  {
+    "id": 86,
+    "team_a": "France",
+    "team_b": "Ecuador",
+    "date": "2034-08-08",
+    "time": "16:00",
+    "stage": "round_of_32",
+    "stadium_id": 8,
+    "result": {
+      "score_a": 3,
+      "score_b": 4
+    },
+    "winner": "Ecuador"
+  },
+  {
+    "id": 87,
+    "team_a": "Chile",
+    "team_b": "Switzerland",
+    "date": "2034-08-09",
+    "time": "19:00",
+    "stage": "round_of_32",
+    "stadium_id": 4,
+    "result": {
+      "score_a": 2,
+      "score_b": 0
+    },
+    "winner": "Chile"
+  },
+  {
+    "id": 88,
+    "team_a": "Norway",
+    "team_b": "Uruguay",
+    "date": "2034-08-09",
+    "time": "16:00",
+    "stage": "round_of_32",
+    "stadium_id": 4,
+    "result": {
+      "score_a": 3,
+      "score_b": 0
+    },
+    "winner": "Norway"
+  },
+  {
+    "id": 89,
+    "team_a": "Morocco",
+    "team_b": "Algeria",
+    "date": "2034-08-13",
+    "time": "19:00",
+    "stage": "round_of_16",
+    "stadium_id": 3,
+    "result": {
+      "score_a": 3,
+      "score_b": 0
+    },
+    "winner": "Morocco"
+  },
+  {
+    "id": 90,
+    "team_a": "Czech Republic",
+    "team_b": "Canada",
+    "date": "2034-08-13",
+    "time": "19:00",
+    "stage": "round_of_16",
+    "stadium_id": 5,
+    "result": {
+      "score_a": 1,
+      "score_b": 0
+    },
+    "winner": "Czech Republic"
+  },
+  {
+    "id": 91,
+    "team_a": "Germany",
+    "team_b": "Poland",
+    "date": "2034-08-14",
+    "time": "16:00",
+    "stage": "round_of_16",
+    "stadium_id": 7,
+    "result": {
+      "score_a": 3,
+      "score_b": 1
+    },
+    "winner": "Germany"
+  },
+  {
+    "id": 92,
+    "team_a": "Colombia",
+    "team_b": "England",
+    "date": "2034-08-14",
+    "time": "16:00",
+    "stage": "round_of_16",
+    "stadium_id": 1,
+    "result": {
+      "score_a": 0,
+      "score_b": 3
+    },
+    "winner": "England"
+  },
+  {
+    "id": 93,
+    "team_a": "Wales",
+    "team_b": "Costa Rica",
+    "date": "2034-08-15",
+    "time": "19:00",
+    "stage": "round_of_16",
+    "stadium_id": 2,
+    "result": {
+      "score_a": 2,
+      "score_b": 1
+    },
+    "winner": "Wales"
+  },
+  {
+    "id": 94,
+    "team_a": "Qatar",
+    "team_b": "Portugal",
+    "date": "2034-08-15",
+    "time": "19:00",
+    "stage": "round_of_16",
+    "stadium_id": 5,
+    "result": {
+      "score_a": 3,
+      "score_b": 2
+    },
+    "winner": "Qatar"
+  },
+  {
+    "id": 95,
+    "team_a": "Cameroon",
+    "team_b": "Ecuador",
+    "date": "2034-08-16",
+    "time": "19:00",
+    "stage": "round_of_16",
+    "stadium_id": 7,
+    "result": {
+      "score_a": 0,
+      "score_b": 1
+    },
+    "winner": "Ecuador"
+  },
+  {
+    "id": 96,
+    "team_a": "Chile",
+    "team_b": "Norway",
+    "date": "2034-08-16",
+    "time": "16:00",
+    "stage": "round_of_16",
+    "stadium_id": 5,
+    "result": {
+      "score_a": 0,
+      "score_b": 3
+    },
+    "winner": "Norway"
+  },
+  {
+    "id": 97,
+    "team_a": "Morocco",
+    "team_b": "Czech Republic",
+    "date": "2034-08-20",
+    "time": "16:00",
+    "stage": "quarter_final",
+    "stadium_id": 6,
+    "result": {
+      "score_a": 3,
+      "score_b": 2
+    },
+    "winner": "Morocco"
+  },
+  {
+    "id": 98,
+    "team_a": "Germany",
+    "team_b": "England",
+    "date": "2034-08-20",
+    "time": "19:00",
+    "stage": "quarter_final",
+    "stadium_id": 2,
+    "result": {
+      "score_a": 3,
+      "score_b": 1
+    },
+    "winner": "Germany"
+  },
+  {
+    "id": 99,
+    "team_a": "Wales",
+    "team_b": "Qatar",
+    "date": "2034-08-21",
+    "time": "19:00",
+    "stage": "quarter_final",
+    "stadium_id": 1,
+    "result": {
+      "score_a": 2,
+      "score_b": 0
+    },
+    "winner": "Wales"
+  },
+  {
+    "id": 100,
+    "team_a": "Ecuador",
+    "team_b": "Norway",
+    "date": "2034-08-21",
+    "time": "19:00",
+    "stage": "quarter_final",
+    "stadium_id": 3,
+    "result": {
+      "score_a": 3,
+      "score_b": 2
+    },
+    "winner": "Ecuador"
+  },
+  {
+    "id": 101,
+    "team_a": "Morocco",
+    "team_b": "Germany",
+    "date": "2034-08-25",
+    "time": "16:00",
+    "stage": "semi_final",
+    "stadium_id": 6,
+    "result": {
+      "score_a": 3,
+      "score_b": 2
+    },
+    "winner": "Morocco"
+  },
+  {
+    "id": 102,
+    "team_a": "Wales",
+    "team_b": "Ecuador",
+    "date": "2034-08-26",
+    "time": "19:00",
+    "stage": "semi_final",
+    "stadium_id": 8,
+    "result": {
+      "score_a": 1,
+      "score_b": 3
+    },
+    "winner": "Ecuador"
+  },
+  {
+    "id": 103,
+    "team_a": "Germany",
+    "team_b": "Wales",
+    "date": "2034-08-29",
+    "time": "16:00",
+    "stage": "third_place",
+    "stadium_id": 3,
+    "result": {
+      "score_a": 0,
+      "score_b": 2
+    },
+    "winner": "Wales"
+  },
+  {
+    "id": 104,
+    "team_a": "Morocco",
+    "team_b": "Ecuador",
+    "date": "2034-08-30",
+    "time": "19:00",
+    "stage": "final",
+    "stadium_id": 2,
+    "result": {
+      "score_a": 2,
+      "score_b": 0
+    },
+    "winner": "Morocco"
+  }
+]

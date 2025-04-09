@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "name": "Al-Ula (Hegra)",
+    "type": "Historical Site",
+    "city": "Al-Ula",
+    "rating": 4.9,
+    "location": {
+      "latitude": 26.6084,
+      "longitude": 37.9216,
+      "address": "Al-Ula, Medina Region, Saudi Arabia"
+    },
+    "description": "Saudi Arabia's first UNESCO World Heritage Site, Hegra (Al-Hijr) features well-preserved tombs carved into sandstone cliffs by the Nabataeans, offering a glimpse into ancient Arabian civilization.",
+    "image_path": "/attractions/alula_hegra.jpg",
+    "hours": "9:00 AM - 6:00 PM",
+    "near_stadium": "Prince Abdul Majeed Stadium",
+    "price_range": "$$",
+    "suggested_visit_length": "3-4 hours",
+    "accessibility": true,
+    "tags": ["historical", "UNESCO", "cultural"]
+  },
+  {
+    "id": 2,
+    "name": "Kingdom Centre Tower",
+    "type": "Skyscraper",
+    "city": "Riyadh",
+    "rating": 4.7,
+    "location": {
+      "latitude": 24.7117,
+      "longitude": 46.6740,
+      "address": "King Fahd Road, Al Olaya, Riyadh, Saudi Arabia"
+    },
+    "description": "A modern architectural marvel in Riyadh, the Kingdom Centre Tower features a sky bridge with stunning views of the city skyline and hosts luxury shopping, dining, and a hotel.",
+    "image_path": "/attractions/kingdom_tower.jpg",
+    "hours": "10:00 AM - 11:00 PM",
+    "near_stadium": "King Fahd International Stadium",
+    "price_range": "$$",
+    "suggested_visit_length": "1-2 hours",
+    "accessibility": true,
+    "tags": ["modern", "viewpoint", "shopping"]
+  },
+  {
+    "id": 3,
+    "name": "Najd Village",
+    "type": "Cultural Experience",
+    "city": "Riyadh",
+    "rating": 4.6,
+    "location": {
+      "latitude": 24.7136,
+      "longitude": 46.6753,
+      "address": "Takhassusi St, Al Olaya, Riyadh, Saudi Arabia"
+    },
+    "description": "Traditional Saudi dining experience in a heritage-inspired setting, offering authentic Najdi dishes in a warm, cultural atmosphere.",
+    "image_path": "/attractions/najd_village.jpg",
+    "hours": "12:00 PM - 12:00 AM",
+    "near_stadium": "King Fahd International Stadium",
+    "price_range": "$$",
+    "suggested_visit_length": "2-3 hours",
+    "accessibility": true,
+    "tags": ["cultural", "dining", "cuisine"]
+  },
+  {
+    "id": 4,
+    "name": "Jeddah Corniche",
+    "type": "Beachfront Promenade",
+    "city": "Jeddah",
+    "rating": 4.8,
+    "location": {
+      "latitude": 21.5433,
+      "longitude": 39.1728,
+      "address": "Prince Sultan Rd, Al-Zahra, Jeddah, Saudi Arabia"
+    },
+    "description": "A scenic waterfront promenade offering views of the Red Sea, perfect for a leisurely walk or picnic.",
+    "image_path": "/attractions/jeddah_corniche.jpg",
+    "hours": "24 hours",
+    "near_stadium": "Prince Abdullah Al-Faisal Stadium",
+    "price_range": "Free",
+    "suggested_visit_length": "1-2 hours",
+    "accessibility": true,
+    "tags": ["beach", "viewpoint", "relaxation"]
+  },
+  {
+    "id": 5,
+    "name": "Red Sea Mall",
+    "type": "Shopping",
+    "city": "Jeddah",
+    "rating": 4.7,
+    "location": {
+      "latitude": 21.5433,
+      "longitude": 39.1728,
+      "address": "Prince Sultan Rd, Al-Zahra, Jeddah, Saudi Arabia"
+    },
+    "description": "A large shopping mall offering a variety of stores, restaurants, and entertainment options.",
+    "image_path": "/attractions/red_sea_mall.jpg",
+    "hours": "10:00 AM - 11:00 PM",
+    "near_stadium": "Prince Abdullah Al-Faisal Stadium",
+    "price_range": "$$",
+    "suggested_visit_length": "1-2 hours",
+    "accessibility": true,
+    "tags": ["shopping", "dining", "entertainment"]
+  },
+  {
+    "id": 6,
+    "name": "Diriyah",
+    "type": "Historical District",
+    "city": "Riyadh",
+    "rating": 4.8,
+    "location": {
+      "latitude": 24.7342,
+      "longitude": 46.5762,
+      "address": "Diriyah, Riyadh, Saudi Arabia"
+    },
+    "description": "UNESCO World Heritage site and the original home of the Saudi royal family, featuring restored mud-brick buildings and cultural exhibitions.",
+    "image_path": "/attractions/diriyah.jpg",
+    "hours": "9:00 AM - 9:00 PM",
+    "near_stadium": "King Fahd International Stadium",
+    "price_range": "$$",
+    "suggested_visit_length": "3-4 hours",
+    "accessibility": true,
+    "tags": ["historical", "UNESCO", "cultural"]
+  },
+  {
+    "id": 7,
+    "name": "Edge of the World (Jebel Fihrayn)",
+    "type": "Natural Wonder",
+    "city": "Riyadh",
+    "rating": 4.9,
+    "location": {
+      "latitude": 24.5697,
+      "longitude": 46.0351,
+      "address": "90 km northwest of Riyadh, Saudi Arabia"
+    },
+    "description": "Dramatic cliff offering spectacular views over the endless desert plain, creating the illusion of being at the edge of the world.",
+    "image_path": "/attractions/edge_of_world.jpg",
+    "hours": "Sunrise to Sunset",
+    "near_stadium": "King Fahd International Stadium",
+    "price_range": "$",
+    "suggested_visit_length": "4-5 hours",
+    "accessibility": false,
+    "tags": ["natural", "hiking", "viewpoint"]
+  },
+  {
+    "id": 8,
+    "name": "National Museum of Saudi Arabia",
+    "type": "Museum",
+    "city": "Riyadh",
+    "rating": 4.7,
+    "location": {
+      "latitude": 24.6287,
+      "longitude": 46.7158,
+      "address": "King Faisal Rd, Al Murabba, Riyadh, Saudi Arabia"
+    },
+    "description": "Comprehensive museum showcasing Saudi Arabia's rich history, culture, and Islamic heritage through interactive exhibits and artifacts.",
+    "image_path": "/attractions/national_museum.jpg",
+    "hours": "9:00 AM - 8:00 PM",
+    "near_stadium": "King Fahd International Stadium",
+    "price_range": "$",
+    "suggested_visit_length": "2-3 hours",
+    "accessibility": true,
+    "tags": ["museum", "cultural", "educational"]
+  },
+  {
+    "id": 9,
+    "name": "King Abdulaziz Historical Center",
+    "type": "Cultural Complex",
+    "city": "Riyadh",
+    "rating": 4.6,
+    "location": {
+      "latitude": 24.6287,
+      "longitude": 46.7158,
+      "address": "King Faisal Rd, Al Murabba, Riyadh, Saudi Arabia"
+    },
+    "description": "Cultural complex housing the National Museum, Murabba Palace, and traditional architecture showcasing Saudi heritage.",
+    "image_path": "/attractions/king_abdulaziz_center.jpg",
+    "hours": "9:00 AM - 8:00 PM",
+    "near_stadium": "King Fahd International Stadium",
+    "price_range": "$",
+    "suggested_visit_length": "3-4 hours",
+    "accessibility": true,
+    "tags": ["historical", "cultural", "educational"]
+  },
+  {
+    "id": 10,
+    "name": "Al Masmak Fortress",
+    "type": "Historical Site",
+    "city": "Riyadh",
+    "rating": 4.5,
+    "location": {
+      "latitude": 24.6308,
+      "longitude": 46.7147,
+      "address": "Al Imam Turki Ibn Abdullah Ibn Muhammad, Ad Dirah, Riyadh, Saudi Arabia"
+    },
+    "description": "Historic clay and mud-brick fort that played a pivotal role in the kingdom's history, now housing a museum with exhibits on Saudi heritage.",
+    "image_path": "/attractions/al_masmak.jpg",
+    "hours": "9:00 AM - 9:00 PM",
+    "near_stadium": "King Fahd International Stadium",
+    "price_range": "Free",
+    "suggested_visit_length": "1-2 hours",
+    "accessibility": true,
+    "tags": ["historical", "museum", "cultural"]
+  },
+  {
+    "id": 11,
+    "name": "King Abdullah Park",
+    "type": "Urban Park",
+    "city": "Riyadh",
+    "rating": 4.4,
+    "location": {
+      "latitude": 24.7731,
+      "longitude": 46.7384,
+      "address": "King Abdullah Rd, Riyadh, Saudi Arabia"
+    },
+    "description": "Modern urban park with fountains, walking paths, and green spaces, perfect for families and evening strolls.",
+    "image_path": "/attractions/king_abdullah_park.jpg",
+    "hours": "4:00 PM - 12:00 AM",
+    "near_stadium": "King Saud University Stadium",
+    "price_range": "Free",
+    "suggested_visit_length": "1-2 hours",
+    "accessibility": true,
+    "tags": ["park", "family", "relaxation"]
+  },
+  {
+    "id": 12,
+    "name": "Ithra (King Abdulaziz Center for World Culture)",
+    "type": "Cultural Center",
+    "city": "Dammam",
+    "rating": 4.9,
+    "location": {
+      "latitude": 26.3099,
+      "longitude": 50.1142,
+      "address": "Dhahran, Eastern Province, Saudi Arabia"
+    },
+    "description": "Futuristic cultural center featuring museums, theaters, libraries, and exhibition halls promoting knowledge, creativity, and cross-cultural engagement.",
+    "image_path": "/attractions/ithra.jpg",
+    "hours": "9:00 AM - 10:00 PM",
+    "near_stadium": "Prince Mohammed bin Fahd Stadium",
+    "price_range": "$",
+    "suggested_visit_length": "3-4 hours",
+    "accessibility": true,
+    "tags": ["cultural", "modern", "educational"]
+  },
+  {
+    "id": 13,
+    "name": "Half Moon Bay",
+    "type": "Beach",
+    "city": "Al Khobar",
+    "rating": 4.7,
+    "location": {
+      "latitude": 26.1458,
+      "longitude": 50.2175,
+      "address": "Half Moon Bay, Eastern Province, Saudi Arabia"
+    },
+    "description": "Beautiful crescent-shaped beach with clear waters, perfect for swimming, water sports, and relaxation along the Arabian Gulf.",
+    "image_path": "/attractions/half_moon_bay.jpg",
+    "hours": "24 hours",
+    "near_stadium": "Prince Saud bin Jalawi Stadium",
+    "price_range": "Free",
+    "suggested_visit_length": "3-5 hours",
+    "accessibility": true,
+    "tags": ["beach", "swimming", "relaxation"]
+  },
+  {
+    "id": 14,
+    "name": "Al Ahsa Oasis",
+    "type": "Natural Wonder",
+    "city": "Al Hofuf",
+    "rating": 4.8,
+    "location": {
+      "latitude": 25.3839,
+      "longitude": 49.5883,
+      "address": "Al Ahsa, Eastern Province, Saudi Arabia"
+    },
+    "description": "UNESCO World Heritage site and the largest natural oasis in the world, featuring springs, palm groves, and historical sites.",
+    "image_path": "/attractions/al_ahsa.jpg",
+    "hours": "Open daily",
+    "near_stadium": "Prince Mohammed bin Fahd Stadium",
+    "price_range": "$",
+    "suggested_visit_length": "4-6 hours",
+    "accessibility": true,
+    "tags": ["natural", "UNESCO", "historical"]
+  },
+  {
+    "id": 15,
+    "name": "Asir National Park",
+    "type": "National Park",
+    "city": "Abha",
+    "rating": 4.8,
+    "location": {
+      "latitude": 18.2164,
+      "longitude": 42.5053,
+      "address": "Asir Region, Saudi Arabia"
+    },
+    "description": "Stunning mountain park with lush landscapes, diverse wildlife, and cool climate, offering hiking trails and panoramic views of the surrounding mountains.",
+    "image_path": "/attractions/asir_park.jpg",
+    "hours": "8:00 AM - 6:00 PM",
+    "near_stadium": "Prince Sultan bin Abdul Aziz Stadium",
+    "price_range": "$",
+    "suggested_visit_length": "4-5 hours",
+    "accessibility": false,
+    "tags": ["nature", "hiking", "wildlife"]
+  },
+  {
+    "id": 16,
+    "name": "NEOM The Line Experience Center",
+    "type": "Exhibition",
+    "city": "NEOM",
+    "rating": 4.9,
+    "location": {
+      "latitude": 27.9654,
+      "longitude": 35.2618,
+      "address": "NEOM, Tabuk Province, Saudi Arabia"
+    },
+    "description": "Futuristic exhibition showcasing the revolutionary linear city project, with interactive displays and models of Saudi Arabia's most ambitious development.",
+    "image_path": "/attractions/neom_line.jpg",
+    "hours": "10:00 AM - 8:00 PM",
+    "near_stadium": "Prince Mohamed bin Salman Stadium",
+    "price_range": "Free",
+    "suggested_visit_length": "2-3 hours",
+    "accessibility": true,
+    "tags": ["futuristic", "technology", "exhibition"]
+  },
+  {
+    "id": 17,
+    "name": "Elephant Rock (Jabal AlFil)",
+    "type": "Natural Formation",
+    "city": "Al-Ula",
+    "rating": 4.8,
+    "location": {
+      "latitude": 26.6299,
+      "longitude": 37.9485,
+      "address": "Al-Ula, Medina Region, Saudi Arabia"
+    },
+    "description": "Spectacular natural sandstone formation resembling an elephant, standing 52 meters tall in the desert landscape of Al-Ula.",
+    "image_path": "/attractions/elephant_rock.jpg",
+    "hours": "24 hours",
+    "near_stadium": "Prince Abdul Majeed Stadium",
+    "price_range": "Free",
+    "suggested_visit_length": "1-2 hours",
+    "accessibility": false,
+    "tags": ["natural", "geological", "photography"]
+  },
+  {
+    "id": 18,
+    "name": "Quba Mosque",
+    "type": "Religious Site",
+    "city": "Medina",
+    "rating": 4.9,
+    "location": {
+      "latitude": 24.4399,
+      "longitude": 39.6157,
+      "address": "Quba, Medina, Saudi Arabia"
+    },
+    "description": "The oldest mosque in the world, built by Prophet Muhammad upon his arrival in Medina, holding great significance in Islamic history.",
+    "image_path": "/attractions/quba_mosque.jpg",
+    "hours": "Fajr to Isha prayers",
+    "near_stadium": "King Salman Sport City Stadium",
+    "price_range": "Free",
+    "suggested_visit_length": "1-2 hours",
+    "accessibility": true,
+    "tags": ["religious", "historical", "spiritual"]
+  },
+  {
+    "id": 19,
+    "name": "Tabuk Castle",
+    "type": "Historical Site",
+    "city": "Tabuk",
+    "rating": 4.6,
+    "location": {
+      "latitude": 28.3834,
+      "longitude": 36.5660,
+      "address": "Tabuk, Saudi Arabia"
+    },
+    "description": "Ancient castle dating back to 1559 CE, featuring Islamic architecture and exhibits on the region's history and the Ottoman Empire's influence.",
+    "image_path": "/attractions/tabuk_castle.jpg",
+    "hours": "9:00 AM - 7:00 PM",
+    "near_stadium": "King Khalid Sports City Stadium",
+    "price_range": "Free",
+    "suggested_visit_length": "1-2 hours",
+    "accessibility": true,
+    "tags": ["historical", "castle", "cultural"]
+  },
+  {
+    "id": 20,
+    "name": "Rijal Almaa Heritage Village",
+    "type": "Historical Village",
+    "city": "Asir",
+    "rating": 4.7,
+    "location": {
+      "latitude": 18.0622,
+      "longitude": 42.3111,
+      "address": "Rijal Almaa, Asir Region, Saudi Arabia"
+    },
+    "description": "Picturesque mountain village with distinctive stone architecture, showcasing the traditional lifestyle and heritage of the Asir region.",
+    "image_path": "/attractions/rijal_almaa.jpg",
+    "hours": "8:00 AM - 6:00 PM",
+    "near_stadium": "Prince Sultan bin Abdul Aziz Stadium",
+    "price_range": "$",
+    "suggested_visit_length": "2-3 hours",
+    "accessibility": false,
+    "tags": ["historical", "cultural", "village"]
+  },
+  {
+    "id": 21,
+    "name": "Al Wahbah Crater",
+    "type": "Natural Wonder",
+    "city": "Taif",
+    "rating": 4.8,
+    "location": {
+      "latitude": 22.9000,
+      "longitude": 41.1333,
+      "address": "Al Wahbah Crater, Makkah Province, Saudi Arabia"
+    },
+    "description": "Massive volcanic crater spanning 2 km in diameter and 250 meters deep, with a salt field at its bottom, offering spectacular hiking and photography opportunities.",
+    "image_path": "/attractions/wahbah_crater.jpg",
+    "hours": "24 hours",
+    "near_stadium": "King Abdullah Sports City",
+    "price_range": "Free",
+    "suggested_visit_length": "3-4 hours",
+    "accessibility": false,
+    "tags": ["natural", "hiking", "geological"]
+  },
+  {
+    "id": 22,
+    "name": "Boulevard Riyadh City",
+    "type": "Entertainment District",
+    "city": "Riyadh",
+    "rating": 4.7,
+    "location": {
+      "latitude": 24.7700,
+      "longitude": 46.6432,
+      "address": "Hittin, Riyadh, Saudi Arabia"
+    },
+    "description": "Vibrant entertainment district featuring restaurants, cafes, shops, and various attractions including theme parks, games, and live performances.",
+    "image_path": "/attractions/boulevard_riyadh.jpg",
+    "hours": "4:00 PM - 1:00 AM",
+    "near_stadium": "King Saud University Stadium",
+    "price_range": "$$",
+    "suggested_visit_length": "3-4 hours",
+    "accessibility": true,
+    "tags": ["entertainment", "dining", "shopping"]
+  },
+  {
+    "id": 23,
+    "name": "King Abdulaziz Camel Festival",
+    "type": "Cultural Event",
+    "city": "Riyadh",
+    "rating": 4.8,
+    "location": {
+      "latitude": 24.9500,
+      "longitude": 46.7100,
+      "address": "Al Dahna, Riyadh, Saudi Arabia"
+    },
+    "description": "Annual festival celebrating the cultural significance of camels in Saudi heritage, featuring races, beauty contests, and traditional cultural activities.",
+    "image_path": "/attractions/camel_festival.jpg",
+    "hours": "Varies by season",
+    "near_stadium": "King Fahd International Stadium",
+    "price_range": "$$",
+    "suggested_visit_length": "4-6 hours",
+    "accessibility": true,
+    "tags": ["cultural", "festival", "traditional"]
+  },
+  {
+    "id": 24,
+    "name": "Al Balad (Historic Jeddah)",
+    "type": "Historical District",
+    "city": "Jeddah",
+    "rating": 4.6,
+    "location": {
+      "latitude": 21.4858,
+      "longitude": 39.1925,
+      "address": "Al Balad, Jeddah, Saudi Arabia"
+    },
+    "description": "UNESCO World Heritage site featuring traditional coral stone buildings, bustling souks, and historic architecture dating back to the 7th century.",
+    "image_path": "/attractions/al_balad.jpg",
+    "hours": "4:00 PM - 12:00 AM",
+    "near_stadium": "Prince Abdullah Al-Faisal Stadium",
+    "price_range": "Free",
+    "suggested_visit_length": "2-3 hours",
+    "accessibility": true,
+    "tags": ["historical", "UNESCO", "shopping"]
+  },
+  {
+    "id": 25,
+    "name": "King Fahd Fountain",
+    "type": "Landmark",
+    "city": "Jeddah",
+    "rating": 4.7,
+    "location": {
+      "latitude": 21.5433,
+      "longitude": 39.1464,
+      "address": "Corniche Road, Jeddah, Saudi Arabia"
+    },
+    "description": "The world's tallest water fountain, shooting water up to 312 meters high, spectacularly illuminated at night over the Red Sea.",
+    "image_path": "/attractions/king_fahd_fountain.jpg",
+    "hours": "Best viewed after sunset",
+    "near_stadium": "King Abdullah Sports City",
+    "price_range": "Free",
+    "suggested_visit_length": "30 minutes",
+    "accessibility": true,
+    "tags": ["landmark", "scenic", "photography"]
+  },
+  {
+    "id": 26,
+    "name": "Mada'in Saleh (Hegra)",
+    "type": "Archaeological Site",
+    "city": "Al-Ula",
+    "rating": 4.9,
+    "location": {
+      "latitude": 26.7917,
+      "longitude": 37.9542,
+      "address": "Al-Ula, Medina Region, Saudi Arabia"
+    },
+    "description": "Second largest Nabatean settlement after Petra, featuring over 100 well-preserved tombs with ornate facades carved into sandstone outcrops.",
+    "image_path": "/attractions/madain_saleh.jpg",
+    "hours": "9:00 AM - 5:00 PM",
+    "near_stadium": "Prince Abdul Majeed Stadium",
+    "price_range": "$$",
+    "suggested_visit_length": "4-5 hours",
+    "accessibility": false,
+    "tags": ["UNESCO", "archaeological", "historical"]
+  },
+  {
+    "id": 27,
+    "name": "Dadan Ancient Kingdom",
+    "type": "Archaeological Site",
+    "city": "Al-Ula",
+    "rating": 4.7,
+    "location": {
+      "latitude": 26.6084,
+      "longitude": 37.9216,
+      "address": "Al-Ula, Medina Region, Saudi Arabia"
+    },
+    "description": "Ancient capital of the Dadan and Lihyan Kingdoms from the 9th to 2nd century BCE, featuring tombs carved into the red-rock mountains.",
+    "image_path": "/attractions/dadan_kingdom.jpg",
+    "hours": "9:00 AM - 5:00 PM",
+    "near_stadium": "Prince Abdul Majeed Stadium",
+    "price_range": "$$",
+    "suggested_visit_length": "2-3 hours",
+    "accessibility": false,
+    "tags": ["archaeological", "historical", "cultural"]
+  },
+  {
+    "id": 28,
+    "name": "The Floating Mosque (Al Rahma Mosque)",
+    "type": "Religious Site",
+    "city": "Jeddah",
+    "rating": 4.8,
+    "location": {
+      "latitude": 21.6037,
+      "longitude": 39.1147,
+      "address": "Corniche Road, Jeddah, Saudi Arabia"
+    },
+    "description": "Stunning white marble mosque built on stilts over the Red Sea, appearing to float on water during high tide, with beautiful architecture and serene atmosphere.",
+    "image_path": "/attractions/floating_mosque.jpg",
+    "hours": "Open during prayer times",
+    "near_stadium": "King Abdullah Sports City",
+    "price_range": "Free",
+    "suggested_visit_length": "1 hour",
+    "accessibility": true,
+    "tags": ["religious", "architectural", "scenic"]
+  },
+  {
+    "id": 29,
+    "name": "Al Masmak Palace Museum",
+    "type": "Museum",
+    "city": "Riyadh",
+    "rating": 4.6,
+    "location": {
+      "latitude": 24.6308,
+      "longitude": 46.7147,
+      "address": "Al Imam Turki Ibn Abdullah Ibn Muhammad, Ad Dirah, Riyadh, Saudi Arabia"
+    },
+    "description": "19th-century clay and mud-brick fortress that now houses a museum showcasing artifacts, photographs, and exhibits on the history of Saudi Arabia and the Al Saud family.",
+    "image_path": "/attractions/masmak_palace.jpg",
+    "hours": "9:00 AM - 9:00 PM",
+    "near_stadium": "King Fahd International Stadium",
+    "price_range": "Free",
+    "suggested_visit_length": "1-2 hours",
+    "accessibility": true,
+    "tags": ["museum", "historical", "cultural"]
+  },
+  {
+    "id": 30,
+    "name": "Taif Rose Farms",
+    "type": "Agricultural Attraction",
+    "city": "Taif",
+    "rating": 4.5,
+    "location": {
+      "latitude": 21.2700,
+      "longitude": 40.4158,
+      "address": "Al Hada, Taif, Saudi Arabia"
+    },
+    "description": "Famous rose farms where the renowned Taif roses are grown and harvested for producing some of the world's most expensive rose oil and rose water.",
+    "image_path": "/attractions/taif_roses.jpg",
+    "hours": "7:00 AM - 6:00 PM",
+    "near_stadium": "King Abdullah Sports City",
+    "price_range": "$",
+    "suggested_visit_length": "1-2 hours",
+    "accessibility": true,
+    "tags": ["agricultural", "cultural", "shopping"]
+  },
+  {
+    "id": 31,
+    "name": "Al Thumama Desert",
+    "type": "Natural Wonder",
+    "city": "Riyadh",
+    "rating": 4.7,
+    "location": {
+      "latitude": 24.5697,
+      "longitude": 46.7243,
+      "address": "Al Thumama, Riyadh, Saudi Arabia"
+    },
+    "description": "Stunning desert landscape just outside Riyadh, offering dune bashing, camel rides, quad biking, and traditional desert camps with entertainment.",
+    "image_path": "/attractions/thumama_desert.jpg",
+    "hours": "24 hours (camps usually operate evenings)",
+    "near_stadium": "King Fahd International Stadium",
+    "price_range": "$$",
+    "suggested_visit_length": "3-5 hours",
+    "accessibility": false,
+    "tags": ["desert", "adventure", "cultural"]
+  },
+  {
+    "id": 32,
+    "name": "King Abdullah Marine Research Center",
+    "type": "Educational Center",
+    "city": "Jeddah",
+    "rating": 4.5,
+    "location": {
+      "latitude": 21.7633,
+      "longitude": 39.1408,
+      "address": "Jeddah, Saudi Arabia"
+    },
+    "description": "Modern research center with interactive exhibits on marine life, conservation efforts, and the rich biodiversity of the Red Sea ecosystem.",
+    "image_path": "/attractions/marine_center.jpg",
+    "hours": "10:00 AM - 6:00 PM",
+    "near_stadium": "King Abdullah Sports City",
+    "price_range": "$",
+    "suggested_visit_length": "2-3 hours",
+    "accessibility": true,
+    "tags": ["educational", "marine", "science"]
+  },
+  {
+    "id": 33,
+    "name": "Souq Al Zal",
+    "type": "Traditional Market",
+    "city": "Riyadh",
+    "rating": 4.4,
+    "location": {
+      "latitude": 24.6308,
+      "longitude": 46.7147,
+      "address": "Al Dirah, Riyadh, Saudi Arabia"
+    },
+    "description": "Historic traditional market selling antiques, carpets, brass items, traditional clothing, and Saudi handicrafts in an authentic atmosphere.",
+    "image_path": "/attractions/souq_al_zal.jpg",
+    "hours": "9:00 AM - 9:00 PM",
+    "near_stadium": "King Fahd International Stadium",
+    "price_range": "$-$$$",
+    "suggested_visit_length": "1-2 hours",
+    "accessibility": true,
+    "tags": ["shopping", "cultural", "traditional"]
+  },
+  {
+    "id": 34,
+    "name": "Shada Mountain",
+    "type": "Natural Wonder",
+    "city": "Al Baha",
+    "rating": 4.8,
+    "location": {
+      "latitude": 20.0200,
+      "longitude": 41.4700,
+      "address": "Al Baha Region, Saudi Arabia"
+    },
+    "description": "Majestic mountain with distinctive white marble-like rock formations, offering hiking trails and spectacular panoramic views of the surrounding landscapes.",
+    "image_path": "/attractions/shada_mountain.jpg",
+    "hours": "Sunrise to Sunset",
+    "near_stadium": "Prince Sultan bin Abdul Aziz Stadium",
+    "price_range": "Free",
+    "suggested_visit_length": "3-4 hours",
+    "accessibility": false,
+    "tags": ["natural", "hiking", "viewpoint"]
+  },
+  {
+    "id": 35,
+    "name": "Maraya Concert Hall",
+    "type": "Cultural Venue",
+    "city": "Al-Ula",
+    "rating": 4.9,
+    "location": {
+      "latitude": 26.6084,
+      "longitude": 37.9216,
+      "address": "Al-Ula, Medina Region, Saudi Arabia"
+    },
+    "description": "World's largest mirrored building, a stunning architectural marvel that reflects the surrounding desert landscape and hosts concerts and cultural events.",
+    "image_path": "/attractions/maraya_hall.jpg",
+    "hours": "Varies by event",
+    "near_stadium": "Prince Abdul Majeed Stadium",
+    "price_range": "$$$",
+    "suggested_visit_length": "2-3 hours",
+    "accessibility": true,
+    "tags": ["architecture", "cultural", "entertainment"]
+  }
+]

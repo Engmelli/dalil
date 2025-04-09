@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "name": "Ahmed Al-Saud",
+    "nationality": "Saudi Arabia",
+    "team_supported": "Saudi Arabia",
+    "hotel_stays": [
+      {
+        "hotel_id": 1,
+        "check_in": "2034-06-10",
+        "check_out": "2034-06-25"
+      },
+      {
+        "hotel_id": 7,
+        "check_in": "2034-06-25",
+        "check_out": "2034-07-10"
+      },
+      {
+        "hotel_id": 2,
+        "check_in": "2034-07-10",
+        "check_out": "2034-07-19"
+      }
+    ],
+    "attending_games": [1, 65, 81, 93, 95],
+    "preferences": {
+      "food": ["Arabic", "International"],
+      "activities": ["Shopping", "Cultural tours", "Beaches"],
+      "transport": "Rental car"
+    },
+    "language": "Arabic"
+  },
+  {
+    "id": 2,
+    "name": "John Smith",
+    "nationality": "England",
+    "team_supported": "England",
+    "hotel_stays": [
+      {
+        "hotel_id": 3,
+        "check_in": "2034-06-12",
+        "check_out": "2034-06-30"
+      },
+      {
+        "hotel_id": 5,
+        "check_in": "2034-06-30",
+        "check_out": "2034-07-15"
+      }
+    ],
+    "attending_games": [5, 66, 81],
+    "preferences": {
+      "food": ["British", "International", "Seafood"],
+      "activities": ["Beaches", "Nightlife", "Sports events"],
+      "transport": "Taxi"
+    },
+    "language": "English"
+  },
+  {
+    "id": 3,
+    "name": "Maria Rodriguez",
+    "nationality": "Spain",
+    "team_supported": "Spain",
+    "hotel_stays": [
+      {
+        "hotel_id": 5,
+        "check_in": "2034-06-11",
+        "check_out": "2034-07-01"
+      },
+      {
+        "hotel_id": 10,
+        "check_in": "2034-07-01",
+        "check_out": "2034-07-19"
+      }
+    ],
+    "attending_games": [4, 65, 95],
+    "preferences": {
+      "food": ["Spanish", "Mediterranean", "Seafood"],
+      "activities": ["Shopping", "Beaches", "Cultural tours"],
+      "transport": "Public transport"
+    },
+    "language": "Spanish"
+  },
+  {
+    "id": 4,
+    "name": "Hiroshi Tanaka",
+    "nationality": "Japan",
+    "team_supported": "Japan",
+    "hotel_stays": [
+      {
+        "hotel_id": 7,
+        "check_in": "2034-06-15",
+        "check_out": "2034-06-25"
+      },
+      {
+        "hotel_id": 9,
+        "check_in": "2034-06-25",
+        "check_out": "2034-07-05"
+      }
+    ],
+    "attending_games": [8, 66],
+    "preferences": {
+      "food": ["Japanese", "International", "Arabic"],
+      "activities": ["Technology tours", "Shopping", "Cultural experiences"],
+      "transport": "Organized tours"
+    },
+    "language": "Japanese"
+  },
+  {
+    "id": 5,
+    "name": "Sophie Dupont",
+    "nationality": "France",
+    "team_supported": "France",
+    "hotel_stays": [
+      {
+        "hotel_id": 2,
+        "check_in": "2034-06-10",
+        "check_out": "2034-06-20"
+      },
+      {
+        "hotel_id": 8,
+        "check_in": "2034-06-20",
+        "check_out": "2034-07-05"
+      },
+      {
+        "hotel_id": 3,
+        "check_in": "2034-07-05",
+        "check_out": "2034-07-15"
+      }
+    ],
+    "attending_games": [2, 66, 81, 93],
+    "preferences": {
+      "food": ["French", "Fine dining", "Arabic"],
+      "activities": ["Shopping", "Art galleries", "Luxury experiences"],
+      "transport": "Chauffeur"
+    },
+    "language": "French"
+  }
+] 
