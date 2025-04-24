@@ -104,7 +104,7 @@ const Layout = ({
         <Box
           component="img"
           src="/logo.png"
-          alt="Tabaa Logo"
+          alt="Dalil Logo"
           sx={{ 
             height: 42,
             filter: 'brightness(0) invert(1)',
@@ -128,7 +128,7 @@ const Layout = ({
             WebkitTextFillColor: 'transparent'
           }}
         >
-          Tabaa
+          Dalil
         </Typography>
       </Box>
       

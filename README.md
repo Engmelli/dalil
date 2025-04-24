@@ -1,8 +1,8 @@
-# WorldCup2034 - Saudi Arabia Fan Assistant
+# Dalil - Saudi Arabia Fan Assistant
 
 ## Project Overview
 
-WorldCup2034 is an interactive web application designed to enhance the fan experience during the 2034 FIFA World Cup in Saudi Arabia. The application provides personalized assistance to fans by offering information about matches, accommodations, attractions, restaurants, and other essential services throughout their stay in Saudi Arabia.
+Dalil is an interactive web application designed to enhance the fan experience during the 2034 FIFA World Cup in Saudi Arabia. The application provides personalized assistance to fans by offering information about matches, accommodations, attractions, restaurants, and other essential services throughout their stay in Saudi Arabia.
 
 ## Key Features
 
@@ -115,7 +115,7 @@ The assistant uses specialized tools to retrieve data:
 ## Project Structure
 
 ```
-WorldCup2034/
+Dalil/
 ├── app/                      # Backend Flask application
 │   ├── app.py                # Main Flask application
 │   ├── data/                 # JSON data files
